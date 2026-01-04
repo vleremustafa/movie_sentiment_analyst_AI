@@ -1,8 +1,0 @@
-transformers
-torch
-datasets
-pandas
-scikit-learn
-streamlit
-huggingface_hub
-lime
